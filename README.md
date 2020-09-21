@@ -16,7 +16,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ### Installing
 
 ```
-CD powercord/src/Powercord/themes
+CD AppData\Roaming\BetterDiscord\themes
 ```
 
 Then
